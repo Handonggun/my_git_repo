@@ -1,4 +1,5 @@
 #include "funcs.h"
+#include <stdio.h>
 int main() {
     print_hello();
     print_world();
